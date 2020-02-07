@@ -5,7 +5,9 @@ showing how to use git and github together
 
 ## Purpose
 
-Sample website with plenty of files for demos
+as stated above, the main purpose is to
+provide simple examples for git training
+demos.
 
 ## Introduction
 
@@ -14,5 +16,9 @@ of the git repository and various commands
 using a web project.
 
 ## Deployment
+
+this is a simple web project, 
+deployment can be on any web or even local
+file system.
 
 ## How To Contribute
